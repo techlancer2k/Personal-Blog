@@ -1,0 +1,17 @@
+header{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: bisque;
+}
+body{
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+}
+a:link,a:visited{
+    color:black ;
+
+}
